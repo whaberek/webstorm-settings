@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="16" />
+    <option name="userId" value="4b5c3bef:16e656d0088:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
